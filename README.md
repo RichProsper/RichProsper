@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RichProsper
 - 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently learning Sass and UI Design for Web.
+- 🌱 I’m currently learning NextJS the React Framework.
 - 💞️ I’m looking to collaborate on anything Web Development related.
 - 📫 You can reach me at rich.stp.p@protonmail.com
 
