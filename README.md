@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning NextJS the React Framework.
 - 💞️ I’m looking to collaborate on anything Web Development related.
-- 📫 You can reach me at [linkedin about section](https://www.linkedin.com/in/rich-prosper-csm-82107b196/)
+- 📫 You can reach me at [Rich Prosper, CSM](https://www.linkedin.com/in/rich-prosper-csm-82107b196/)
 
 <!---
 RichProsper/RichProsper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
